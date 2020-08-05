@@ -59,7 +59,7 @@
     "clean-css-loader": "^2.0.0",
     "css-loader": "^3.2.0",
     "del-cli": "^3.0.0",
-    "electron": "7.0.0",
+    "electron": "9.1.2",
     "electron-builder": "^21.2.0",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "html-webpack-exclude-assets-plugin": "0.0.7",
